@@ -17,7 +17,7 @@
 # (2) only comparisons of key values (not array indices) are counted
 #################################################################
 
-from ForwardQuickSort import *
+from QuickSort import *
 import random
 
 # This function is the main program
