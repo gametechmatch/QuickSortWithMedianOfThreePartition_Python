@@ -16,6 +16,6 @@ Procedural Programming (secondary model)
 ____________FILES:____________
 QuickSortClientOne.py --- main program
 
-SortArrayOne.py---arent class to create a list (sometimes called an array)
+SortArrayOne.py---parent class to create a list (sometimes called an array)
 
 QuickSort.py---child class to add quicksort functionality
