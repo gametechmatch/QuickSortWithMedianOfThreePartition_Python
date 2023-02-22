@@ -23,4 +23,4 @@ QuickSort.py---child class to add quicksort functionality
 
 
 ____________OTHER NOTES:____________
-Python lists are the closest equivalent to an array in other coding languages, but some websites distinguish them on their functionality and imply that both are capable in Python with some extra code. Since this textbook used the word "array" for the original code that this was built off of, I kept using that terminology. Additionally, since this has been implemented through object oriented programming, it would most accurately be described as a linked list, but going back to the first point, I kept the verbiage used in the textbook's chapter.
+Python lists are the closest equivalent to an array in other coding languages, but some websites distinguish them on their functionality and imply that both are capable in Python with some extra code. Since this textbook used the word "array" for the original code that this was built off of, I kept using that terminology.
